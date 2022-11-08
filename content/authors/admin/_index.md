@@ -1,43 +1,42 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Do Won Kim
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Do Won  
+last_name: Kim
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graduate Student in Political Science 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Seoul National University
+    url: cpc.snu.ac.kr
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I study political behavior with a special focus on political communication and political psychology. My research draws on various methodological approaches, including survey methods, computer vision, and NLP. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Political Behavior: Emotions In Politics, Political Polarization, Political Persuasion, Representation
+  - Political Methodology: Survey Methods, Machine Learning, Computer Vision, NLP
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Political Science
+      institution: Seoul National University
+      year: 2020~
+    - course: MSc in European Studies (Research)
+      institution: London School of Economics
+      year: 2018
+    - course: Bachelor of Business Administration, BSc in Engineering
+      institution: Sungkyunkwan University
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -55,13 +54,11 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?authuser=1&user=TMUG38cAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/DO-WON
+ 
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
