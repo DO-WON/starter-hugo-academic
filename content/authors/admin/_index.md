@@ -14,7 +14,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/DoWonKim13
     label: Follow me on Twitter
     display:
       header: true
@@ -42,7 +42,7 @@ superuser: true
 last_name: Kim
 highlight_name: true
 first_name: Do Won
-email: ""
+email: "kenrose05@snu.ac.kr"
 ---
 
 
